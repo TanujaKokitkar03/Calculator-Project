@@ -1,0 +1,34 @@
+table{
+    background-color: white;
+    border:solid 3px rgb(245, 33, 146);
+}
+
+table tr td input{
+    width:60px;
+    height:40px;
+    background-color: rgb(255, 250, 242);
+    font-size: 17px;
+}
+
+/* css for '=' button */
+.equals input{
+    width:130px;
+    height:40px;
+    background-color: rgb(245, 33, 146);
+}
+
+/* css for result textbox */
+.textbox input{
+    width:262px;
+    height:40px;
+    background-color: rgb(245, 33, 146);
+    color: white;
+    text-align: right;
+    font-size: 23px;
+}
+
+/* css for clear, delete and operation button */
+.operators{
+    background-color: rgb(245, 33, 146);
+    
+}
